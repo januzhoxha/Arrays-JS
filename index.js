@@ -1,3 +1,7 @@
+//               PROF MOS HARRO ME E KQYR EDHE INDEX.HTML//
+
+
+
 /*1. Create a “groceries list” array. Each element of the array is an object that contains the name of a product, an amount needed and whether it is bought or not. Write a few functions for working with this array. 
 
 DONE-Display the entire list, so that the not yet purchased items go before the bought ones. 
